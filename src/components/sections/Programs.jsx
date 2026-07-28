@@ -11,7 +11,7 @@ export default function Programs() {
     <section id="programs" className="py-20 sm:py-28">
       <div className="container-page flex flex-col gap-12">
         <SectionHeading
-          eyebrow="Why Evergreen"
+          eyebrow="Why Krishna"
           title="Here's how we help students find what they're good at."
           description="Four departments, one shared standard: every student leaves each year having grown somewhere new."
         />

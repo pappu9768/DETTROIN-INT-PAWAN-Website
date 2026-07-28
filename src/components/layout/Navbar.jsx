@@ -25,7 +25,7 @@ export default function Navbar() {
         <a href="#top" className="flex items-center gap-3" aria-label="Evergreen International Academy home">
           <Seal size={40} />
           <span className="hidden font-display text-lg leading-tight text-parchment sm:block">
-            Evergreen
+            Krishna
             <span className="block text-xs font-body font-normal tracking-widest2 text-parchment-muted">
               INTERNATIONAL ACADEMY
             </span>

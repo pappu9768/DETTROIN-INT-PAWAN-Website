@@ -16,7 +16,7 @@ export default function Footer() {
           <div className="flex items-center gap-3">
             <Seal size={48} />
             <div>
-              <p className="font-display text-lg text-parchment">Evergreen International Academy</p>
+              <p className="font-display text-lg text-parchment">Krishna International Academy</p>
               <p className="text-sm text-parchment-muted">Dedicated to curious minds.</p>
             </div>
           </div>
@@ -35,7 +35,7 @@ export default function Footer() {
             <li className="flex items-center gap-3">
               <Mail className="h-4 w-4 shrink-0 text-brass" aria-hidden="true" />
               <a href="mailto:info@evergreenacademy.edu" className="hover:text-brass">
-                info@evergreenacademy.edu
+                info@Krishnaacademy.edu
               </a>
             </li>
           </ul>
@@ -75,8 +75,8 @@ export default function Footer() {
       <div className="rule" />
 
       <div className="container-page flex flex-col items-center justify-between gap-3 py-6 text-xs text-parchment-muted sm:flex-row">
-        <p>&copy; {new Date().getFullYear()} Evergreen International Academy. All rights reserved.</p>
-        <p className="font-mono">School Code: EVGRN</p>
+        <p>&copy; {new Date().getFullYear()} Krishna International Academy. All rights reserved.</p>
+        <p className="font-mono">School Code: KRISH</p>
       </div>
     </footer>
   )

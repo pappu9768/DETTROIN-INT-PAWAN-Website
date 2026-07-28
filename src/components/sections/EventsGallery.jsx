@@ -14,7 +14,7 @@ export default function EventsGallery() {
         <div className="flex flex-col items-start justify-between gap-6 sm:flex-row sm:items-end">
           <SectionHeading
             eyebrow="Events & Gallery"
-            title="What's on at Evergreen this season."
+            title="What's on at Krishna this season."
             description="A running record of the year, on stage, on the field, and in the studio."
           />
           <Button href="#events" variant="ghost" className="shrink-0">

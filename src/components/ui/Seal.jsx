@@ -41,7 +41,7 @@ export default function Seal({ className = '', spin = false, size = 96 }) {
         fontSize="22"
         fill="#F4F1E6"
       >
-        EA
+        Kr
       </text>
       <text
         x="50"

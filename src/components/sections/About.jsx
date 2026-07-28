@@ -33,7 +33,7 @@ export default function About() {
 
         <div className="flex flex-col gap-6">
           <SectionHeading
-            eyebrow="About Evergreen"
+            eyebrow="About Krishna"
             title="Twenty-eight years of teaching students to ask better questions."
           />
           <p className="text-parchment-muted leading-relaxed">
