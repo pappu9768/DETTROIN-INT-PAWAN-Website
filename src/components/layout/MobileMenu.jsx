@@ -29,7 +29,7 @@ export default function MobileMenu({ open, onClose }) {
             className="flex h-full flex-col"
           >
             <div className="container-page flex items-center justify-between py-5">
-              <span className="font-display text-lg text-parchment">Evergreen</span>
+              <span className="font-display text-lg text-parchment">Krishna</span>
               <button
                 onClick={onClose}
                 aria-label="Close menu"
