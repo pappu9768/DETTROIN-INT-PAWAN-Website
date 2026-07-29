@@ -35,7 +35,7 @@ export const NAV_LINKS = [
 export const FOOTER_COLUMNS = [
   {
     heading: 'About',
-    links: ['Overview', 'Campus Features', "Head of School's Message", 'Why Evergreen'],
+    links: ['Overview', 'Campus Features', "Head of School's Message", 'Why Krishna'],
   },
   {
     heading: 'Admissions',
